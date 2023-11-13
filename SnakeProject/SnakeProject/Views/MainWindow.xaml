@@ -22,6 +22,6 @@
         <Label x:Name="lblPlayerFruitsEaten" Content="Fruits Eaten :" HorizontalAlignment="Left" Margin="11,213,0,0" Width="134" FontSize="16" Background="#8EAEAEAE" FontFamily="Cooper Black" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Height="31" VerticalAlignment="Top"/>
         <Label x:Name="lblFruitsEaten" Content="0" Margin="174,213,18,0" FontSize="16" Background="#8EAEAEAE" FontFamily="Cooper Black" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Height="31" VerticalAlignment="Top"/>
         <xctk:ColorPicker x:Name="clrColor" Margin="124,98,0,0" VerticalContentAlignment="Stretch" MouseLeave="clrColor_MouseLeave" MouseEnter="clrColor_MouseEnter" SelectedColorChanged="clrColor_SelectedColorChanged" HorizontalAlignment="Left" Width="121" Height="113" VerticalAlignment="Top" Visibility="Hidden" />
-        <TextBox x:Name="txtName" Height="30" Margin="11,10,19,0" TextWrapping="Wrap" Text="Click her to change name" VerticalAlignment="Top" FontSize="16" FontFamily="Cooper Black" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Background="#8EAEAEAE" TabIndex="1" KeyUp="txtName_KeyUp"/>
+        <TextBox x:Name="txtName" Height="30" Margin="11,10,19,0" TextWrapping="Wrap" Text="Click here to change name" VerticalAlignment="Top" FontSize="16" FontFamily="Cooper Black" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Background="#8EAEAEAE" TabIndex="1" KeyUp="txtName_KeyUp"/>
     </Grid>
 </Window>

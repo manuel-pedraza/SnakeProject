@@ -53,10 +53,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>6CF5D7C16F375E0689C56A04A2B11A8430EBB157</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>28810454DFD4318A7DBC81454AC1790FAD6AE749</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestKeyFile>SnakeProject_TemporaryKey.pfx</ManifestKeyFile>
+    <ManifestKeyFile>SnakeProject_1_TemporaryKey.pfx</ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
     <GenerateManifests>true</GenerateManifests>
