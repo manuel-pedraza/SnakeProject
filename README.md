@@ -7,9 +7,5 @@
 ## Snake Project
 Very simple snake project, created to experiment with the capabilities of the .NET library.
 
-## Starting the project in Debug or in Release mode
-
-
-## Start the executable
-
-<!-- MAYBE ADD FLAWLESS GAME GIF? -->
+<!-- ## Start the executable -->
+#### Note: If you want to test the app without the .exe file, you'll need Visual Studio.
